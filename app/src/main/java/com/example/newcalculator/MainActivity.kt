@@ -12,8 +12,10 @@ class MainActivity : AppCompatActivity() {
 }
 fun test(){
     println("test")
-    var str:String="hello"
+    var str:String="hii guys"
+    var i:Int=10
+    println(i)
     println(str)
     println(test())
-    var t:String="hello"
+
 }
