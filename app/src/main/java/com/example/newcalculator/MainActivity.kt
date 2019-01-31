@@ -14,4 +14,6 @@ fun test(){
     println("test")
     var str:String="hello"
     println(str)
+    println(test())
+    var t:String="hello"
 }
